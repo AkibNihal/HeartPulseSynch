@@ -1,1 +1,1 @@
-# HeartPulseSynch
+# HeartPulseSync

@@ -24,14 +24,14 @@ These features aim to provide a simple, attractive, and intuitive experience for
 
 <div style="display:flex; justify-content: center;">
   <img src="https://github.com/AkibNihal/HeartPulseSynch/assets/79849459/be064087-3998-49df-8379-5e37d6c56b63" alt="Screenshot 1" width="200"/>
-  <img src="https://github.com/AkibNihal/HeartPulseSynch/assets/79849459/52ad8197-4cac-424d-8494-4037a1ef364b" alt="Screenshot 2" width="200"/>
+    <img src="https://github.com/AkibNihal/HeartPulseSynch/assets/79849459/c5ab10f6-220e-4afc-979a-1567e4fb2f3b" alt="Screenshot 3" width="200"/>
 </div>
 
 <div style="display:flex; justify-content: center;">
-  <img src="https://github.com/AkibNihal/HeartPulseSynch/assets/79849459/c5ab10f6-220e-4afc-979a-1567e4fb2f3b" alt="Screenshot 3" width="200"/>
-  <img src="https://github.com/AkibNihal/HeartPulseSynch/assets/79849459/0e6da6e3-8a32-407f-bcc9-19e2bda89190" alt="Screenshot 4" width="200"/>
+    <img src="https://github.com/AkibNihal/HeartPulseSynch/assets/79849459/52ad8197-4cac-424d-8494-4037a1ef364b" alt="Screenshot 2" width="200"/>
+    <img src="https://github.com/AkibNihal/HeartPulseSynch/assets/79849459/b83408ed-7916-4877-b11a-a1be3c378052" alt="Screenshot 5" width="200"/>
 </div>
+  <img src="https://github.com/AkibNihal/HeartPulseSynch/assets/79849459/0e6da6e3-8a32-407f-bcc9-19e2bda89190" alt="Screenshot 4" width="200"/>
 
-<img src="https://github.com/AkibNihal/HeartPulseSynch/assets/79849459/b83408ed-7916-4877-b11a-a1be3c378052" alt="Screenshot 5" width="200"/>
 
 ### For More Details click [here](https://github.com/AkibNihal/HeartPulseSynch/wiki)

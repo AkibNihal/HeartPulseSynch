@@ -7,6 +7,18 @@ This user-friendly app allows you to record vital information such as your heart
 
 With HeartPulseSynch, monitoring your heart health has never been easier. Download the app today and take control of your cardiovascular fitness.
 
+# Features:
+- Ability to store and display blood pressure-related data.
+- Record page to add new measurements, including date, time, systolic pressure, diastolic pressure, heart rate, and comment.
+- Edit and update existing measurement details.
+- Delete measurements from the record.
+- Highlight or flag unusual blood pressure.
+- Display a list of measurements, showing the date, systolic pressure, diastolic pressure, and heart rate.
+- User-friendly interface to ensure proper data entry and prevent illegal values.
+- Persistent storage to ensure data is not lost when exiting or stopping the app.
+
+These features aim to provide a simple, attractive, and intuitive experience for users to monitor and track their blood pressure and heart rate data.
+
 ## Some screenshots of the app:
 
 
